@@ -114,7 +114,7 @@ Description: Business website for consulting and professional services.
 ## Contact
 
 - LinkedIn: [https://www.linkedin.com/in/davidakindileni/]
-- GitHub: [[Your GitHub Profile URL](https://github.com/davidakindileni)]
+- GitHub: [https://github.com/davidakindileni]
 - Email: [davidakindileni@yahoo.co.uk]
 
 ---
